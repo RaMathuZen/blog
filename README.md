@@ -1,2 +1,2 @@
-## Hi WEB
-This is my first post
+## About Me
+I am a student.
